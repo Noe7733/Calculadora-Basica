@@ -1,0 +1,63 @@
+div{
+    color: blue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+div h1{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+div label4{
+    margin-top:50px;
+    color:blueviolet;
+    margin-bottom:50px;
+}
+
+.entrada{
+    margin-bottom:60px;
+    padding: 9px;
+    width: 30%;
+}
+
+
+.styled-button{
+    background-color: #87a7bc;
+    color: #fff;
+    transition: background-color 0.3s, color 0.5s;
+    width: 41%; /*este se utiliza para el largo del boton*/
+    margin: 10px;
+    padding: 9px;/*este se utiliza para el ancho del boton*/
+    border: 1px solid #999;
+}
+
+.styled-button:hover{
+    background-color: #2980b9;
+}
+
+div div4{
+    margin-bottom: 50px;
+    button5{
+        padding: 10px, 20px;
+        border: none;
+        border-radius: 5px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+}
+
+div select{
+    padding: 10px;
+    width: 42%;
+    margin-bottom:80px;
+}
+
+.resultado{
+    margin-bottom:100px;
+    padding: 9px;
+    width: 34%;
+    background-color: blue;
+    color: white;
+}
